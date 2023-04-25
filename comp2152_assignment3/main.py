@@ -1,8 +1,8 @@
 # LIBRARY
 
-# Jerome Delos Reyes - 101324620
-# Mustafizur Rahman - 101383735
-# Haider Farooqui - 1012
+# Jerome Delos Reyes 
+# Mustafizur Rahman
+# Haider Farooqui
 
 # IMPORT STATEMENTS
 import sqlite3
